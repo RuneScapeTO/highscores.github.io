@@ -1,6 +1,6 @@
 var hiscores = hiscores || {};
 
-hiscores.apiURL = "https://6a37-2600-1700-9a91-ee10-00-49.ngrok.io";
+hiscores.apiURL = "https://api.codetabs.com/v1/proxy/?quest=http://2009.runescape.to:3000";
 
 hiscores.sName = [
     "Attack",
